@@ -1,0 +1,35 @@
+F:\Tetris\Tetris\obj\x86\Debug\MainWindow.baml
+F:\Tetris\Tetris\obj\x86\Debug\MainWindow.g.cs
+F:\Tetris\Tetris\obj\x86\Debug\App.g.cs
+F:\Tetris\Tetris\obj\x86\Debug\Tetris_MarkupCompile.cache
+F:\Tetris\Tetris\obj\x86\Debug\Tetris.g.resources
+F:\Tetris\Tetris\bin\Debug\Tetris.exe
+F:\Tetris\Tetris\bin\Debug\Tetris.pdb
+F:\Tetris\Tetris\obj\x86\Debug\Tetris.Properties.Resources.resources
+F:\Tetris\Tetris\obj\x86\Debug\Tetris.csproj.GenerateResource.Cache
+F:\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+F:\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+F:\Nesne Tabanlı Programlama\Yaptığım Oyunlar\Tetris\Tetris\bin\Debug\Tetris.exe
+F:\Nesne Tabanlı Programlama\Yaptığım Oyunlar\Tetris\Tetris\bin\Debug\Tetris.pdb
+F:\Nesne Tabanlı Programlama\Yaptığım Oyunlar\Tetris\Tetris\obj\x86\Debug\Tetris.csprojAssemblyReference.cache
+F:\Nesne Tabanlı Programlama\Yaptığım Oyunlar\Tetris\Tetris\obj\x86\Debug\MainWindow.baml
+F:\Nesne Tabanlı Programlama\Yaptığım Oyunlar\Tetris\Tetris\obj\x86\Debug\MainWindow.g.cs
+F:\Nesne Tabanlı Programlama\Yaptığım Oyunlar\Tetris\Tetris\obj\x86\Debug\App.g.cs
+F:\Nesne Tabanlı Programlama\Yaptığım Oyunlar\Tetris\Tetris\obj\x86\Debug\Tetris_MarkupCompile.cache
+F:\Nesne Tabanlı Programlama\Yaptığım Oyunlar\Tetris\Tetris\obj\x86\Debug\Tetris.g.resources
+F:\Nesne Tabanlı Programlama\Yaptığım Oyunlar\Tetris\Tetris\obj\x86\Debug\Tetris.Properties.Resources.resources
+F:\Nesne Tabanlı Programlama\Yaptığım Oyunlar\Tetris\Tetris\obj\x86\Debug\Tetris.csproj.GenerateResource.cache
+F:\Nesne Tabanlı Programlama\Yaptığım Oyunlar\Tetris\Tetris\obj\x86\Debug\Tetris.csproj.CoreCompileInputs.cache
+F:\Nesne Tabanlı Programlama\Yaptığım Oyunlar\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+F:\Nesne Tabanlı Programlama\Yaptığım Oyunlar\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+E:\Nesne Tabanlı Programlama\Yaptığım Oyunlar\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+E:\Nesne Tabanlı Programlama\Yaptığım Oyunlar\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+E:\Nesne Tabanlı Programlama\Yaptığım Oyunlar\Tetris\Tetris\bin\Debug\Tetris.exe
+E:\Nesne Tabanlı Programlama\Yaptığım Oyunlar\Tetris\Tetris\bin\Debug\Tetris.pdb
+E:\Nesne Tabanlı Programlama\Yaptığım Oyunlar\Tetris\Tetris\obj\x86\Debug\MainWindow.baml
+E:\Nesne Tabanlı Programlama\Yaptığım Oyunlar\Tetris\Tetris\obj\x86\Debug\MainWindow.g.cs
+E:\Nesne Tabanlı Programlama\Yaptığım Oyunlar\Tetris\Tetris\obj\x86\Debug\App.g.cs
+E:\Nesne Tabanlı Programlama\Yaptığım Oyunlar\Tetris\Tetris\obj\x86\Debug\Tetris_MarkupCompile.cache
+E:\Nesne Tabanlı Programlama\Yaptığım Oyunlar\Tetris\Tetris\obj\x86\Debug\Tetris.g.resources
+E:\Nesne Tabanlı Programlama\Yaptığım Oyunlar\Tetris\Tetris\obj\x86\Debug\Tetris.Properties.Resources.resources
+E:\Nesne Tabanlı Programlama\Yaptığım Oyunlar\Tetris\Tetris\obj\x86\Debug\Tetris.csproj.GenerateResource.Cache
